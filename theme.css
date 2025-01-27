@@ -1,0 +1,1 @@
+body{--bg1: #FFFFFF;--bg2: #EFEFEF;--bg3: #DFDFDF;--text1: #000000;--text2: #000000;--text3: #000000;--primary1: #F23CA6;--primary2: #ef1293;--primary3: #C60D79;transition:background-color .5s,color .5s}body.dark{--bg1: #000000;--bg2: #101010;--bg3: #202020;--text1: #FFFFFF;--text2: #FFFFFF;--text3: #FFFFFF;--primary1: #F23CA6;--primary2: #F563B8;--primary3: #F677C1}
